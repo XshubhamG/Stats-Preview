@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/XshubhamG/Stats-Preview.git)
+- Live Site URL: [Netlify](https://eclectic-cannoli-7935b2.netlify.app)
 
 ## My process
 
